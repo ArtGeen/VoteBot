@@ -9,7 +9,7 @@ from aiogram.types import Message, CallbackQuery, InlineKeyboardMarkup, InlineKe
 
 BOT_TOKEN = "8590222261:AAGFy4XM6vYEnykovBPy6966mWoWFrgD4Qc"
 
-ADMIN_IDS = {5199152901}  # <-- ID админа (можно несколько)
+ADMIN_IDS = {5199152901, 831629809}  # <-- ID админа (можно несколько)
 
 VOTES_FILE = Path("votes.json")
 
